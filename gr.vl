@@ -1,0 +1,9 @@
+
+*[
+let fib of fun = (indx of u8) -> u64 {
+  if (indx <= 1) {
+    ret 1;
+  }
+  ret fib(indx - 1) + fib(indx - 2);
+}
+]*

@@ -1,0 +1,30 @@
+** a signed eight-bit constant titled test with the value negative one hundred and eleven
+imut test of i8 = -111;
+
+** boolean?
+let no of bool = false;
+
+write("yes\n"); ** will make a function soon
+
+imut schtring of str = "a string\n";
+
+** printing
+
+write(schtring);
+
+** casting
+
+write(test to str);
+write(no to str);
+
+*[ testing testing 1 2 3
+yes1
+2
+3
+4
+qaz
+qaz
+qwe
+rty
+uio
+p ]*

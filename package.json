@@ -1,0 +1,17 @@
+{
+  "name": "virra-source",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "cli-progress": "^3.9.0",
+    "ora": "^5.4.0"
+  }
+}
