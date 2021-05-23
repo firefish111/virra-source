@@ -10,6 +10,7 @@ printf("yes\n");
 const char* schtring = "a string\n";
 printf(schtring);
 printf(___lltostr(test));
+printf("\v");
 printf(___booltostr(no));
 
 return 0;

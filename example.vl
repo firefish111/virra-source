@@ -9,12 +9,11 @@ write("yes\n"); ** will make a function soon
 imut schtring of str = "a string\n";
 
 ** printing
-
 write(schtring);
 
 ** casting
-
 write(test to str);
+write("\v"); ** spacing
 write(no to str);
 
 *[ testing testing 1 2 3
